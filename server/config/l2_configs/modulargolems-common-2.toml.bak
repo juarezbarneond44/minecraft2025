@@ -1,0 +1,8 @@
+#Allow players to retrieve the golems by bare hand
+barehandRetrieve = true
+#Make mobs aggro to iron golem automatically aggro to modular golems
+doEnemyAggro = true
+#Allow golems to enter portal
+allowDimensionChange = false
+summonDistance = 64
+

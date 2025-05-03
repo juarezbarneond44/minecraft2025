@@ -1,4 +1,37 @@
 
+#Options related to player's alignment
+[alignment]
+	#Points for freeing a soul in a receptacle [0..500|default:50]
+	#Range: 0 ~ 500
+	points_free_soul_receptacle = 50
+	#Points for plundering a player's grave [-500..0|default:-10]
+	#Range: -500 ~ 0
+	points_plunder_player_grave = -10
+	#Points for zombie villager exorcism [0..500|default:20]
+	#Range: 0 ~ 500
+	points_exorcism_zombie_villager = 20
+	#Points for zombifying a villager [-500..0|default:-20]
+	#Range: -500 ~ 0
+	points_zombify_villager = -20
+	#Points for killing some entities decreasing alignment [-500..0|default:-10]
+	#Range: -500 ~ 0
+	points_kill_decreasing_alignment = -10
+	#Points for killing some entities increasing alignment [0..500|default:10]
+	#Range: 0 ~ 500
+	points_kill_increasing_alignment = 10
+	#Points for tablet of cupidity [-500..0|default:-10]
+	#Range: -500 ~ 0
+	points_tablet_of_cupidity = -10
+	#Points for Pray of Protection [0..500|default:20]
+	#Range: 0 ~ 500
+	points_pray_of_protection = 20
+	#Points for using a Potion of Earthly Garden [0..500|default:10]
+	#Range: 0 ~ 500
+	points_earthly_garden = 10
+	#Points for killing one of your tamed creatures [-500..0|default:-10]
+	#Range: -500 ~ 0
+	points_kill_tamed_creature = -10
+
 #Options related to player's death
 [player_death]
 	#Whether to unlock access to a grave if the player has been killed by another player [false/true|default:true]
@@ -34,39 +67,6 @@
 	percent_loss_on_death = 0
 	#Graveless Dimensions
 	no_grave_dimension = []
-
-#Options related to player's alignment
-[alignment]
-	#Points for freeing a soul in a receptacle [0..500|default:50]
-	#Range: 0 ~ 500
-	points_free_soul_receptacle = 50
-	#Points for plundering a player's grave [-500..0|default:-10]
-	#Range: -500 ~ 0
-	points_plunder_player_grave = -10
-	#Points for zombie villager exorcism [0..500|default:20]
-	#Range: 0 ~ 500
-	points_exorcism_zombie_villager = 20
-	#Points for zombifying a villager [-500..0|default:-20]
-	#Range: -500 ~ 0
-	points_zombify_villager = -20
-	#Points for killing some entities decreasing alignment [-500..0|default:-10]
-	#Range: -500 ~ 0
-	points_kill_decreasing_alignment = -10
-	#Points for killing some entities increasing alignment [0..500|default:10]
-	#Range: 0 ~ 500
-	points_kill_increasing_alignment = 10
-	#Points for tablet of cupidity [-500..0|default:-10]
-	#Range: -500 ~ 0
-	points_tablet_of_cupidity = -10
-	#Points for Pray of Protection [0..500|default:20]
-	#Range: 0 ~ 500
-	points_pray_of_protection = 20
-	#Points for using a Potion of Earthly Garden [0..500|default:10]
-	#Range: 0 ~ 500
-	points_earthly_garden = 10
-	#Points for killing one of your tamed creatures [-500..0|default:-10]
-	#Range: -500 ~ 0
-	points_kill_tamed_creature = -10
 
 #Miscellaneous options
 [general]

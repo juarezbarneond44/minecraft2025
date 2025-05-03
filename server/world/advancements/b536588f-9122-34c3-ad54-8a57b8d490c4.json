@@ -1,0 +1,508 @@
+{
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "plenty_of_golems:not_enough_golem_ad": {
+    "criteria": {
+      "not_enough_golem_ad_0": "2025-04-27 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-04-27 06:27:47 +0000",
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_iron": "2025-04-27 06:46:42 +0000",
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2025-04-27 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-04-27 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-04-27 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2025-04-27 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "1_splatus:ultris/root": {
+    "criteria": {
+      "c1": "2025-04-27 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-04-27 06:27:47 +0000",
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:18:55 +0000"
+    },
+    "done": false
+  },
+  "mobs_of_mythology:mobs_of_mythology": {
+    "criteria": {
+      "tick": "2025-04-27 06:18:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-27 06:18:56 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges_0": "2025-04-27 06:18:56 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2025-04-27 06:18:56 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-27 06:18:56 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-04-27 06:18:56 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2025-04-27 06:18:56 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_root": {
+    "criteria": {
+      "adv_root": "2025-04-27 06:18:56 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-04-27 06:18:56 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2025-04-27 06:18:56 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-04-27 06:18:56 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-04-27 06:18:56 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:root": {
+    "criteria": {
+      "auto": "2025-04-27 06:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-04-27 06:24:58 +0000",
+      "minecraft:forest": "2025-04-27 06:18:57 +0000",
+      "minecraft:windswept_savanna": "2025-04-27 06:43:35 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-04-27 06:44:55 +0000",
+      "minecraft:plains": "2025-04-27 06:22:23 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-04-27 06:18:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-27 06:19:33 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-04-27 06:20:44 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-04-27 06:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-27 06:20:44 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2025-04-27 06:47:31 +0000",
+      "killed_something": "2025-04-27 06:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-04-27 06:47:31 +0000",
+      "killed_something": "2025-04-27 06:23:44 +0000"
+    },
+    "done": true
+  },
+  "l2hostility:hostility/patchouli": {
+    "criteria": {
+      "0": "2025-04-27 06:24:11 +0000"
+    },
+    "done": true
+  },
+  "l2hostility:hostility/root": {
+    "criteria": {
+      "0": "2025-04-27 06:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-27 06:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-27 06:25:29 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2025-04-27 06:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-04-27 06:28:54 +0000",
+      "cooked_beef": "2025-04-27 07:00:08 +0000",
+      "apple": "2025-04-27 06:46:03 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-04-27 06:29:32 +0000"
+    },
+    "done": false
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-04-27 06:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-04-27 06:30:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "specialmobs:spider": "2025-04-27 06:30:41 +0000",
+      "minecraft:creeper": "2025-04-27 06:30:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-27 06:31:59 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-04-27 06:37:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-04-27 06:37:15 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2025-04-27 06:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-04-27 06:46:42 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-04-27 06:47:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-04-27 06:47:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-04-27 06:47:32 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-04-27 06:50:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2025-04-27 06:53:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-04-27 06:55:11 +0000",
+      "rice": "2025-04-27 06:55:11 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

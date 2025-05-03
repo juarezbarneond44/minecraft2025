@@ -1,0 +1,336 @@
+{
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "plenty_of_golems:not_enough_golem_ad": {
+    "criteria": {
+      "not_enough_golem_ad_0": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "mobs_of_mythology:mobs_of_mythology": {
+    "criteria": {
+      "tick": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges_0": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "majruszsdifficulty:game_stage_normal": {
+    "criteria": {
+      "is_triggered": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "inventorypets:root": {
+    "criteria": {
+      "auto": "2025-04-27 06:54:28 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "1_splatus:ultris/root": {
+    "criteria": {
+      "c1": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-04-27 06:59:51 +0000",
+      "minecraft:river": "2025-04-27 06:59:22 +0000",
+      "minecraft:forest": "2025-04-27 06:54:28 +0000",
+      "minecraft:plains": "2025-04-27 06:58:35 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "seadwellers:adv_root": {
+    "criteria": {
+      "adv_root": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-04-27 06:54:28 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-04-27 06:54:26 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 06:54:26 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
