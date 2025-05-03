@@ -1,0 +1,41 @@
+# Configuración de ServerCore para optimizar el rendimiento
+
+# Rango de activación de entidades
+activation_range:
+  default: 32
+  villagers: 16
+  monsters: 24
+  animals: 16
+  misc: 8
+
+# Control de generación de chunks
+chunk_generation:
+  max_chunks_per_tick: 4
+  max_chunk_generation_queue_size: 1000
+
+# Control de spawn de mobs
+mob_spawning:
+  spawn_cap:
+    monsters: 70
+    animals: 10
+    ambient: 15
+    water_creature: 5
+    water_ambient: 20
+    misc: 5
+  spawn_rate:
+    monsters: 1.0
+    animals: 1.0
+    ambient: 1.0
+    water_creature: 1.0
+    water_ambient: 1.0
+    misc: 1.0
+
+# Configuración de ticks aleatorios
+random_ticks:
+  max_random_ticks_per_chunk: 3
+
+# Otras optimizaciones
+optimizations:
+  enable_async_chunk_loading: true
+  enable_entity_culling: true
+  enable_block_entity_caching: true
