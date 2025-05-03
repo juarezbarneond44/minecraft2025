@@ -1,0 +1,24 @@
+# --- ServerCore Configuración personalizada ---
+
+# Generación de chunks multihilo
+enableMultiThreadedChunkGeneration = true
+chunkGenThreads = 6
+tickThreads = 4
+
+# Optimización de entidades y colisiones
+optimizeEntityTicking = true
+maxEntityCollisionChecks = 1
+mobAiOptimization = true
+optimizeMobAI = true
+
+# Ticks dinámicos (mejora rendimiento en zonas sin jugadores)
+dynamicTicking = true
+fallbackTickDistance = 2
+
+# Límite de procesamiento por tick (mobs)
+maxPassiveMobsPerTick = 15
+maxAggressiveMobsPerTick = 20
+
+# Mejoras avanzadas
+enableThreadedWorldGen = true
+entityUncap = true
